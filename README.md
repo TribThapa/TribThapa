@@ -10,6 +10,7 @@
 
 
 <p>&nbsp;</p>
+
 ### A few projects 👀
 
 - [Australian Economy Analysis](https://github.com/TribThapa/AustralianEconomyAnalysis) [Python, MachineLearning, App + StreamLit]
