@@ -12,6 +12,5 @@
 <p>&nbsp;</p>
 
 ### A few projects 👀
-
-- [Australian Economy Analysis](https://github.com/TribThapa/AustralianEconomyAnalysis) [Python, MachineLearning, App + StreamLit]
-- [Stock Market Trades](https://github.com/MishQ666/ProjectTwo-Alpha-Analysts) [Python, MachineLearning, App + StreamLit]
+- [Australian Economy Analysis](https://github.com/TribThapa/AustralianEconomyAnalysis) 
+- [Stock Market Trades](https://github.com/MishQ666/ProjectTwo-Alpha-Analysts)
