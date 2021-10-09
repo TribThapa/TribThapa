@@ -1,11 +1,12 @@
-### Hey, I'm Thapa 👋
+## Hey, I'm Thapa 👋
+
+![Repository Banner](ThapaBanner.JPG)
 
 - I'm a data analyst with a background in academic and industry research.😄&nbsp; I enjoy using statistics, Python, Pandas, APIs, Data Visualisation, Machine Learning 💻, and Blockchain Technology 💸 💰 to understand finance, strategise trades, and educate individuals interested in this space 😃
 
-### To contact me 
-📭 .... tthapa3@gmail.com
-
-👉 [....LinkedIn profile](https://www.linkedin.com/in/tribikram-thapa-rana-phd-ab4b4a65/)
+### I love to collaborate and be innovative in the FinTech space. Therefore feel to connet with me on:
+- 📭 .... tthapa3@gmail.com
+- 👉 [....LinkedIn profile](https://www.linkedin.com/in/tribikram-thapa-rana-phd-ab4b4a65/)
 
 
 
