@@ -1,6 +1,6 @@
 ### Hey, I'm Thapa 👋
 
-I am a data analyst with a background in academic and industry research 😄 &nbsp;
+I am a data analyst with a background in academic and industry research 😄 <p>&nbsp;</p>
 I have technical skills in statistics, Python, Pandas, APIs, Data Visualisation, Machine Learning 💻, and Blockchain Technology 💸 💰from Monash University. I love to learn, upskill, and collaborate on innovative projects 😃
 
 I
