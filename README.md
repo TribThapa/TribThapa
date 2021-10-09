@@ -5,5 +5,5 @@ I'm a data analyst who loves to create and build new technology in finance, bloc
 
 ## A few projects
 
-- [Australian Economy Analysis](https://github.com/TribThapa/AustralianEconomyAnalysis) #AusEconomy [Python, MachineLearning, App + StreamLit]
+- [Australian Economy Analysis](https://github.com/TribThapa/AustralianEconomyAnalysis) [Python, MachineLearning, App + StreamLit]
 - [Stock Market Trades](https://github.com/MishQ666/ProjectTwo-Alpha-Analysts) [Python, MachineLearning, App + StreamLit]
