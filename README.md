@@ -14,3 +14,7 @@
 ### A few projects 👀
 - [Australian Economy Analysis](https://github.com/TribThapa/AustralianEconomyAnalysis) 
 - [Stock Market Trades](https://github.com/MishQ666/ProjectTwo-Alpha-Analysts)
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
