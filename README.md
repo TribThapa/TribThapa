@@ -9,7 +9,6 @@
 - 👉 [.... LinkedIn profile](https://www.linkedin.com/in/tribikram-thapa-rana-phd-ab4b4a65/)
 - 📃 [.... Resume](https://tribthapa.github.io/)
 
-
 <p>&nbsp;</p>
 
 ### A few projects 👀
