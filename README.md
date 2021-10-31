@@ -13,7 +13,8 @@
 
 ### A few projects 👀
 - [Australian Economy Analysis](https://github.com/TribThapa/AustralianEconomyAnalysis) 
-- [Stock Market Trades](https://github.com/MishQ666/ProjectTwo-Alpha-Analysts)
+- [Stock Market Trades](https://github.com/TribThapa/TradePredictions)
+- [NFT MarketPlace](https://github.com/TribThapa/NFTs)
 
 <p>&nbsp;</p>
 
