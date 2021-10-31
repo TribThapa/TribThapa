@@ -7,6 +7,7 @@
 ### I love to collaborate and be innovative in the FinTech space. Therefore, feel free to connect with me on:
 - 📭 .... tthapa3@gmail.com
 - 👉 [.... LinkedIn profile](https://www.linkedin.com/in/tribikram-thapa-rana-phd-ab4b4a65/)
+- 📃 [.... Resume](https://tribthapa.github.io/)
 
 
 <p>&nbsp;</p>
