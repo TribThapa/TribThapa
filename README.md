@@ -1,6 +1,6 @@
 ## Hey, I'm Thapa 👋
 
-![Repository Banner](ThapaBanner.JPG)
+![Repository Banner](ThapaBanner.PNG)
 
 - I'm a data scientist with significant experience in academic and industry research.😄&nbsp; I enjoy using statistics, Python, Pandas, APIs, Data Visualisation, Machine Learning 💻, and Blockchain Technology 💸 💰 to understand audio effectiveness, generate market insights, strategise trades, and educate individuals interested in this space 😃
 
