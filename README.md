@@ -2,7 +2,7 @@
 
 ![Repository Banner](ThapaBanner.PNG)
 
-- I'm a data scientist with significant experience in academic and industry research.😄&nbsp; I enjoy using statistics, Python, Pandas, APIs, Data Visualisation, Machine Learning 💻, and Blockchain Technology 💸 💰 to understand audio effectiveness, generate market insights, strategise trades, and educate individuals interested in this space 😃
+- I'm a business scientist with significant data science experience in academic and industry research.😄&nbsp; I enjoy using statistics, Python, Pandas, APIs, Data Visualisation, Machine Learning 💻, and Blockchain Technology 💸 💰 to understand audio effectiveness, generate market insights, strategise trades, and educate individuals interested in this space 😃
 
 ### I love to collaborate and be innovative in the FinTech space. Therefore, feel free to connect with me on:
 - 📭 .... tthapa3@gmail.com
